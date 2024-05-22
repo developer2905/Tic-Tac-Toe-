@@ -7,9 +7,9 @@ I'm thrilled to showcase the result of my internship project - a dynamic and eng
 
 ## 🔍 Dive in to explore:
 
-A sleek interface designed for seamless gameplay
-Robust JavaScript mechanics ensuring an immersive gaming experience
-Responsive design, making it accessible across various devices
+* A sleek interface designed for seamless gameplay
+* Robust JavaScript mechanics ensuring an immersive gaming experience
+* Responsive design, making it accessible across various devices
 Special thanks to Unified Mentor for providing this opportunity for hands-on learning and mentorship. This project reflects not only my skills but also the support and guidance I've received throughout my internship journey.
 
 Let's continue to learn, innovate, and elevate together! 🚀
